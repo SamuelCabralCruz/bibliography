@@ -29,3 +29,6 @@ Simple bibliography of most interesting books I read classed by subjects with th
 - Pragmatic Unit Testing In Java with JUnit
     - Author: A. Hunt, D. Thomas
     - ISBN 9780974514017
+- Working Effictively with Legacy Code
+    - Author: Michael Feathers
+    - ISBN: 9780131177055
