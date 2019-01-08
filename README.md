@@ -48,6 +48,9 @@ Simple bibliography of most interesting books I read classed by subjects with th
 - [] Large-scale C++ software Design
     - Author: John Lakos
     - ISBN: 9780201633627
+- [] Pragmatic Thinking and Learning: Refactor Your Wetware
+    - Author: Andy Hunt
+    - ISBN: 9781934356050
 
 # Perl
 1. [Learning Perl](http://shop.oreilly.com/product/9780596520113.do)
