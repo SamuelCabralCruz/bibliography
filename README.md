@@ -5,30 +5,51 @@
 Simple bibliography of most interesting books I read classed by subjects with their respective citations (Bibtex format).
 
 ## Software Engineering
-- Clean Code: A Handbook of Agile Software Craftsmanship
+### Professionalism
+- [x] Clean Code: A Handbook of Agile Software Craftsmanship
     - Author: Robert C. Martin
     - ISBN: 9780132350884
-- The Clean Coder: A Code of Conduct for Professional Programmers
+- [x] Clean Coder: A Code of Conduct for Professional Programmers
     - Author: Robert C. Martin
     - ISBN: 9780137081073
-- Clean Architecture: A Craftsman's Guide to Software Structure and Design
+- [x] Clean Architecture: A Craftsman's Guide to Software Structure and Design
     - Author: Robert C. Marting
     - ISBN: 9780134494166
-- The Pragmatic Programmer: From Journeyman to Master
+- [x] The Pragmatic Programmer: From Journeyman to Master
     - Author: Andrew Hunt, David Thomas
     - ISBN: 9780201616224
-- Design Patterns: Elements of Reusable Object-Oriented Software
+- [] Growing object-oriented software, guided by tests
+    - Author: Steve Freeman
+    - ISBN: 9780321503626
+- [] Design Patterns: Elements of Reusable Object-Oriented Software
     - Author: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
     - ISBN: 9780201633610
-- Refactoring: Improving the Design of Existing Code
+- [] Refactoring: Improving the Design of Existing Code
     - Author: Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts
     - ISBN: 9780134757599
-- How Google Tests Software
+- [] How Google Tests Software
     - Author: James A. Whittaker, Jason Arbon, Jeff Carollo
     - ISBN: 9780321803023
-- Pragmatic Unit Testing In Java with JUnit
+- [] Pragmatic Unit Testing In Java with JUnit
     - Author: A. Hunt, D. Thomas
     - ISBN 9780974514017
-- Working Effictively with Legacy Code
+- [] Working Effectively with Legacy Code
     - Author: Michael Feathers
     - ISBN: 9780131177055
+- [] Agile testing: a practical guide for testers and agile teams
+    - Author: Lisa Crispin
+    - ISBN: 9780321534460
+- [] More agile testing: learning journeys for the whole team
+    - Author: Janet Gregory
+    - ISBN: 9780321967053
+- [] Practical Common Lisp
+    - Author: Peter Seibel
+    - ISBN: 9781590592397
+- [] Large-scale C++ software Design
+    - Author: John Lakos
+    - ISBN: 9780201633627
+
+# Perl
+1. [Learning Perl](http://shop.oreilly.com/product/9780596520113.do)
+1. [Beginning Perl](http://www.perl.org/books/beginning-perl/)
+1. [Intermediate Perl](http://shop.oreilly.com/product/9780596102067.do)
