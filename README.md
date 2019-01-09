@@ -18,43 +18,43 @@ Simple bibliography of most interesting books I read classed by subjects with th
 - [x] The Pragmatic Programmer: From Journeyman to Master
     - Author: Andrew Hunt, David Thomas
     - ISBN: 9780201616224
-- [] Growing object-oriented software, guided by tests
+- [ ] Growing object-oriented software, guided by tests
     - Author: Steve Freeman
     - ISBN: 9780321503626
-- [] Design Patterns: Elements of Reusable Object-Oriented Software
+- [ ] Design Patterns: Elements of Reusable Object-Oriented Software
     - Author: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
     - ISBN: 9780201633610
-- [] Refactoring: Improving the Design of Existing Code
+- [ ] Refactoring: Improving the Design of Existing Code
     - Author: Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts
     - ISBN: 9780134757599
-- [] How Google Tests Software
+- [ ] How Google Tests Software
     - Author: James A. Whittaker, Jason Arbon, Jeff Carollo
     - ISBN: 9780321803023
-- [] Pragmatic Unit Testing In Java with JUnit
+- [ ] Pragmatic Unit Testing In Java with JUnit
     - Author: A. Hunt, D. Thomas
     - ISBN 9780974514017
-- [] Working Effectively with Legacy Code
+- [ ] Working Effectively with Legacy Code
     - Author: Michael Feathers
     - ISBN: 9780131177055
-- [] Agile testing: a practical guide for testers and agile teams
+- [ ] Agile testing: a practical guide for testers and agile teams
     - Author: Lisa Crispin
     - ISBN: 9780321534460
-- [] More agile testing: learning journeys for the whole team
+- [ ] More agile testing: learning journeys for the whole team
     - Author: Janet Gregory
     - ISBN: 9780321967053
-- [] Practical Common Lisp
+- [ ] Practical Common Lisp
     - Author: Peter Seibel
     - ISBN: 9781590592397
-- [] Large-scale C++ software Design
+- [ ] Large-scale C++ software Design
     - Author: John Lakos
     - ISBN: 9780201633627
-- [] Pragmatic Thinking and Learning: Refactor Your Wetware
+- [ ] Pragmatic Thinking and Learning: Refactor Your Wetware
     - Author: Andy Hunt
     - ISBN: 9781934356050
-- [] Domain-Driven Design: Tackling Complexity in the Heart of Software
+- [ ] Domain-Driven Design: Tackling Complexity in the Heart of Software
     - Author: Eric Evans
     - ISBN: 9780321125217
-- [] Implementing Domain-Driven Design
+- [ ] Implementing Domain-Driven Design
     - Author: Vaughn Vernon
     - ISBN: 9780321834577
 
