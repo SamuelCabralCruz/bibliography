@@ -51,6 +51,12 @@ Simple bibliography of most interesting books I read classed by subjects with th
 - [] Pragmatic Thinking and Learning: Refactor Your Wetware
     - Author: Andy Hunt
     - ISBN: 9781934356050
+- [] Domain-Driven Design: Tackling Complexity in the Heart of Software
+    - Author: Eric Evans
+    - ISBN: 9780321125217
+- [] Implementing Domain-Driven Design
+    - Author: Vaughn Vernon
+    - ISBN: 9780321834577
 
 # Perl
 1. [Learning Perl](http://shop.oreilly.com/product/9780596520113.do)
