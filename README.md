@@ -23,6 +23,10 @@ Simple bibliography of most interesting books I read or heard about classed by t
     - Author: Andy Hunt
     - ISBN: 9781934356050
 
+### Software Development Process
+- [ ] Extreme Programming Explained: Embrace Change
+    - Author: Kent Beck
+    - ISBN: 9780321278654
 
 ### Test Driven Development (TDD)
 - [ ] Growing object-oriented software, guided by tests
@@ -46,6 +50,21 @@ Simple bibliography of most interesting books I read or heard about classed by t
 - [ ] Design Patterns: Elements of Reusable Object-Oriented Software
     - Author: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
     - ISBN: 9780201633610
+- [ ] Pattern-Oriented Software Architecture Volume 1: A System of Patterns
+    - Author: Frank Buschmann
+    - ISBN: 9780471958697
+- [ ] Pattern-Oriented Software Architecture Volume 2: Patterns for Concurrent and Networked Objects
+    - Author: Douglas Schmidt
+    - ISBN: 9780471606956
+- [ ] Pattern-Oriented Software Architecture Volume 3: Patterns for Resource Management
+    - Author: Michael Kirchner
+    - ISBN: 9780470845257
+- [ ] Pattern-Oriented Software Architecture Volume 4: A Pattern Language for Distributed Computing
+    - Author: Frank Buschmann
+    - ISBN: 9780470059029
+- [ ] Patterns Of Entreprise Application Architecture
+    - Author: Martin Fowler
+    - ISBN: 9780321127426
 
 
 ### Legacy Code
