@@ -22,6 +22,9 @@ Simple bibliography of most interesting books I read or heard about classed by t
 - [ ] Pragmatic Thinking and Learning: Refactor Your Wetware
     - Author: Andy Hunt
     - ISBN: 9781934356050
+- [ ] Smalltalk Best Practice Patterns
+    - Author: Kent Beck
+    - ISBN: 9780134769042
 
 ### Software Development Process
 - [ ] Extreme Programming Explained: Embrace Change
