@@ -2,10 +2,11 @@
 
 <a rel=license href=http://creativecommons.org/licenses/by-sa/4.0/><img alt=Creative Commons License style=border-width:0 src=https://i.creativecommons.org/l/by-sa/4.0/88x31.png /></a><br />This work is licensed under a <a rel=license href=http://creativecommons.org/licenses/by-sa/4.0/>Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-Simple bibliography of most interesting books I read or heard about classed by topics with their respective citations (Bibtex format).
+A simple bibliography of most interesting books I read or heard about classed by topics with their respective citations (BibTex format).
 
 
 ## Software Engineering
+
 ### Professionalism
 - [x] Clean Code: A Handbook of Agile Software Craftsmanship
     - Author: Robert C. Martin
@@ -26,12 +27,26 @@ Simple bibliography of most interesting books I read or heard about classed by t
     - Author: Kent Beck
     - ISBN: 9780134769042
 
+
 ### Software Development Process
 - [ ] Extreme Programming Explained: Embrace Change
     - Author: Kent Beck
     - ISBN: 9780321278654
+- [ ] Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
+    - Author: Jez Humble
+    - ISBN: 9780321601919
+- [ ] Agile Software Development, Principles, Patterns, and Practices
+    - Author: Robert C. Martin
+    - ISBN: 9781292025940
+- [ ] Getting Real: The smarter, faster, easier way to build a successful web application
+    - Author: Jason Fried, David Heinemeier Hansson, Matthew Linderman
+    - ISBN: 9780578012810
+
 
 ### Test Driven Development (TDD)
+- [ ] Test Driven Development: By Example
+    - Author: Kent Beck
+    - ISBN: 9780321146533
 - [ ] Growing object-oriented software, guided by tests
     - Author: Steve Freeman
     - ISBN: 9780321503626
