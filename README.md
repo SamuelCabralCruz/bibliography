@@ -1,4 +1,4 @@
-# bibliography
+# Bibliography
 
 <a rel=license href=http://creativecommons.org/licenses/by-sa/4.0/><img alt=Creative Commons License style=border-width:0 src=https://i.creativecommons.org/l/by-sa/4.0/88x31.png /></a><br />This work is licensed under a <a rel=license href=http://creativecommons.org/licenses/by-sa/4.0/>Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
@@ -8,6 +8,7 @@ A simple bibliography of most interesting books I read or heard about classed by
 ## Software Engineering
 
 ### Professionalism
+
 - [x] Clean Code: A Handbook of Agile Software Craftsmanship
     - Author: Robert C. Martin
     - ISBN: 9780132350884
@@ -29,6 +30,7 @@ A simple bibliography of most interesting books I read or heard about classed by
 
 
 ### Software Development Process
+
 - [ ] Extreme Programming Explained: Embrace Change
     - Author: Kent Beck
     - ISBN: 9780321278654
@@ -41,9 +43,13 @@ A simple bibliography of most interesting books I read or heard about classed by
 - [ ] Getting Real: The smarter, faster, easier way to build a successful web application
     - Author: Jason Fried, David Heinemeier Hansson, Matthew Linderman
     - ISBN: 9780578012810
+- [ ] Clean Agile: Back to Basics
+    - Author: Robert C. Martin
+    - ISBN: 9780135781869
 
 
 ### Test Driven Development (TDD)
+
 - [ ] Test Driven Development: By Example
     - Author: Kent Beck
     - ISBN: 9780321146533
@@ -53,7 +59,7 @@ A simple bibliography of most interesting books I read or heard about classed by
 - [ ] How Google Tests Software
     - Author: James A. Whittaker, Jason Arbon, Jeff Carollo
     - ISBN: 9780321803023
-- [ ] Pragmatic Unit Testing In Java with JUnit
+- [x] Pragmatic Unit Testing In Java with JUnit
     - Author: A. Hunt, D. Thomas
     - ISBN 9780974514017
 - [ ] Agile testing: a practical guide for testers and agile teams
@@ -64,8 +70,9 @@ A simple bibliography of most interesting books I read or heard about classed by
     - ISBN: 9780321967053
 
 
-### Design Patterns
-- [ ] Design Patterns: Elements of Reusable Object-Oriented Software
+### Design Patterns & Architecture
+
+- [x] Design Patterns: Elements of Reusable Object-Oriented Software
     - Author: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
     - ISBN: 9780201633610
 - [ ] Pattern-Oriented Software Architecture Volume 1: A System of Patterns
@@ -83,9 +90,19 @@ A simple bibliography of most interesting books I read or heard about classed by
 - [ ] Patterns Of Entreprise Application Architecture
     - Author: Martin Fowler
     - ISBN: 9780321127426
+- [ ] Large-scale C++ software Design
+    - Author: John Lakos
+    - ISBN: 9780201633627
+- [ ] Building Evolutionary Architectures: Support Constant Change
+    - Author: Neal Ford
+    - ISBN: 9781491986363
+- [ ] Practical Object-Oriented Design: An Agile Primer Using Ruby (2nd Edition)
+    - Author: Sandi Metz
+    - ISBN: 9780134456478
 
 
 ### Legacy Code
+
 - [ ] Working Effectively with Legacy Code
     - Author: Michael Feathers
     - ISBN: 9780131177055
@@ -95,27 +112,99 @@ A simple bibliography of most interesting books I read or heard about classed by
 
 
 ### Domain Driven Design (DDD)
-- [ ] Domain-Driven Design: Tackling Complexity in the Heart of Software
+
+- [x] Domain-Driven Design: Tackling Complexity in the Heart of Software
     - Author: Eric Evans
     - ISBN: 9780321125217
-- [ ] Implementing Domain-Driven Design
+- [x] Implementing Domain-Driven Design
     - Author: Vaughn Vernon
     - ISBN: 9780321834577
+- [ ] Domain-Driven Design Distilled
+    - Author: Vaughn Vernon
+    - ISBN: 9780134434421
+- [ ] Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#
+    - Author: Scott Wlaschin
+    - ISBN: 9781680502541
+    
+
+### Microservices
+
+- [x] Building Microservices: Designing Fine-Grained Systems
+    - Author: Sam Newman
+    - ISBN: 9781491950357
+- [ ] Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith
+    - Author: Sam Newman
+    - ISBN: 9781492047841
 
 
-### Lisp
+### Personal Growth
+
+- [ ] So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love
+    - Author: Cal Newport
+    - ISBN: 9781455509126
+- [ ] Deep Work: Rules for Focused Success in a Distracted World
+    - Author: Cal Newport
+    - ISBN: 9781455586691 
+
+
+### Software Development & IT Operations (DevOps) 
+
+- [ ] The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
+    - Author: Eric Ries
+    - ISBN: 9780307887894
+- [ ] The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
+    - Author: Gene Kim
+    - ISBN: 9781942788294
+- [ ] The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data
+    - Author: Gene Kim
+    - ISBN: 9781942788768
+- [ ] The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations
+    - Author: Gene Kim
+    - ISBN: 9781942788003
+- [ ] Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
+    - Author: Nicole Forsgren
+    - ISBN: 9781942788331
+
+
+### Programming Languages & Frameworks
+
+#### Clojure
+
+- [ ] Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer
+    - Author: Daniel Higginbotham
+    - ISBN: 9781593275914
+
+
+#### GO
+
+- [ ] Go Programming Language, The
+    - Author: Alan Donovan
+    - ISBN: 9780134190440
+
+
+#### Elm
+
+- [ ] Programming Elm: Build Safe, Sane, and Maintainable Front-End Applications
+    - Author: Jeremy Fairbank
+    - ISBN: 9781680502855
+
+
+#### Lisp
+
 - [ ] Practical Common Lisp
     - Author: Peter Seibel
     - ISBN: 9781590592397
 
 
-### Unclassified
-- [ ] Large-scale C++ software Design
-    - Author: John Lakos
-    - ISBN: 9780201633627
+#### Perl
 
-
-# Perl
-1. [Learning Perl](http://shop.oreilly.com/product/9780596520113.do)
+1. [LearnNing Perl](http://shop.oreilly.com/product/9780596520113.do)
 1. [Beginning Perl](http://www.perl.org/books/beginning-perl/)
 1. [Intermediate Perl](http://shop.oreilly.com/product/9780596102067.do)
+
+
+#### Rust
+
+- [ ] The Rust Programming Language (Covers Rust 2018)
+    - Author: Steve Klabnik
+    - ISBN: 9781718500440
