@@ -127,6 +127,20 @@ A simple bibliography of most interesting books I read or heard about classed by
     - ISBN: 9781680502541
     
 
+### Event Storming
+
+- [x] Introducing EventStorming
+    - Author: Alberto Brandolini
+    - ISBN: NA (LeanPub)
+
+
+### Event Sourcing
+
+- [x] Versioning in an Event Sourced System
+    - Author: Gregory Young
+    - ISBN: NA (LeanPub)
+
+
 ### Microservices
 
 - [x] Building Microservices: Designing Fine-Grained Systems
