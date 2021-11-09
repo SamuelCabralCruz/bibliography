@@ -122,7 +122,7 @@ A simple bibliography of most interesting books I read or heard about classed by
 - [ ] Domain-Driven Design Distilled
     - Author: Vaughn Vernon
     - ISBN: 9780134434421
-- [ ] Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#
+- [x] Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#
     - Author: Scott Wlaschin
     - ISBN: 9781680502541
     
